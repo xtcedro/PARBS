@@ -1,12 +1,12 @@
 #!/bin/sh
 
-# Luke's Auto Rice Bootstrapping Script (LARBS)
-# by Luke Smith <luke@lukesmith.xyz>
+# Xtcedro's Auto Rice Bootstrapping Script (XARBS)
+# by Pedro Dominguez <pedro.m.dominguez@my.occc.edu>
 # License: GNU GPLv3
 
 ### OPTIONS AND VARIABLES ###
 
-dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
+dotfilesrepo="https://www.github.com/xtcedro/xarbsrice.git"
 progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/static/progs.csv"
 aurhelper="yay"
 repobranch="master"
