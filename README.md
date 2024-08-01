@@ -1,8 +1,8 @@
-# Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+# Pedro's Auto-Rice Bootstrapping Scripts (PARBS)
 
 ## Installation:
 
-On an Arch-based distribution as root, run the following:
+On a Debian-based distribution as root, run the following:
 
 ```
 curl -LO larbs.xyz/larbs.sh
@@ -11,18 +11,18 @@ sh larbs.sh
 
 That's it.
 
-## What is LARBS?
+## What is PARBS?
 
-LARBS is a script that autoinstalls and autoconfigures a fully-functioning
-and minimal terminal-and-vim-based Arch Linux environment.
+PARBS is a script that autoinstalls and autoconfigures a fully-functioning
+and minimal terminal-and-vim-based Debian Linux environment.
 
-LARBS can be run on a fresh install of Arch or Artix Linux, and provides you
+PARBS can be run on a fresh install of Debian Linux, and provides you
 with a fully configured diving-board for work or more customization.
 
 ## Customization
 
-By default, LARBS uses the programs [here in progs.csv](static/progs.csv) and installs
-[my dotfiles repo (voidrice) here](https://github.com/lukesmithxyz/voidrice),
+By default, PARBS uses the programs [here in progs.csv](static/progs.csv) and installs
+[my dotfiles repo (parbsrice) here](https://github.com/xtcedro/parbsrice),
 but you can easily change this by either modifying the default variables at the
 beginning of the script or giving the script one of these options:
 
