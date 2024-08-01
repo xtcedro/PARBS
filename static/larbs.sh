@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Xtcedro's Auto Rice Bootstrapping Script (XARBS)
+# Pedro's Auto Rice Bootstrapping Script (XARBS)
 # by Pedro Dominguez <pedro.m.dominguez@my.occc.edu>
 # License: GNU GPLv3
 
