@@ -26,7 +26,7 @@ https://github.com/LukeSmithxyz/voidrice/commits/master.atom \"~LARBS dotfiles\"
 ### FUNCTIONS ###
 
 installpkg() {
-	pacman --noconfirm --needed -S "$1" >/dev/null 2>&1
+	apt install -yy "$1" >/dev/null 2>&1
 }
 
 error() {
